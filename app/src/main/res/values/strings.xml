@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Safe360</string>
+    <string name="title_activity_find_set_base">FindSetBaseActivity</string>
+</resources>
